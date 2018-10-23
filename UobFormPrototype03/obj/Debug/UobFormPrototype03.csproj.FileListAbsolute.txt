@@ -1,0 +1,10 @@
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\UobFormPrototype03\UobFormPrototype03\bin\Debug\UobFormPrototype03.exe.config
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\UobFormPrototype03\UobFormPrototype03\bin\Debug\UobFormPrototype03.exe
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\UobFormPrototype03\UobFormPrototype03\bin\Debug\UobFormPrototype03.pdb
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\UobFormPrototype03\UobFormPrototype03\obj\Debug\UobFormPrototype03.csprojAssemblyReference.cache
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\UobFormPrototype03\UobFormPrototype03\obj\Debug\UobFormPrototype03.Form1.resources
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\UobFormPrototype03\UobFormPrototype03\obj\Debug\UobFormPrototype03.Properties.Resources.resources
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\UobFormPrototype03\UobFormPrototype03\obj\Debug\UobFormPrototype03.csproj.GenerateResource.cache
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\UobFormPrototype03\UobFormPrototype03\obj\Debug\UobFormPrototype03.csproj.CoreCompileInputs.cache
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\UobFormPrototype03\UobFormPrototype03\obj\Debug\UobFormPrototype03.exe
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\UobFormPrototype03\UobFormPrototype03\obj\Debug\UobFormPrototype03.pdb
